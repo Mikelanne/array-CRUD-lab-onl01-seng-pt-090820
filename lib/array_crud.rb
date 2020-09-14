@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  twin_peaks = ["Cooper", "Audrey", "Gordon", "Norma"]
 end
 
 def add_element_to_end_of_array(array, element)
