@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-   twin_peaks = ["Wow", "Audrey", "Gordon", "Norma"]
+   twin_peaks = ["wow", "Audrey", "Gordon", "Norma"]
    first_word = twin_peaks.shift
 end
 
