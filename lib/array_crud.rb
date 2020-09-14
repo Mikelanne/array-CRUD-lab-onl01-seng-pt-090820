@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   twin_peaks = ["Cooper", "Audrey", "Gordon", "Norma"]
-  
   twin_peaks << "Big Ed"
 end
 
